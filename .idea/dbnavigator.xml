@@ -26,7 +26,7 @@
     <show-object-properties value="true" />
     <loaded-nodes>
       <connection connection-id="543b17dd-dc99-474e-a9e0-6bb89a9259e1">
-        <schema name="dbslide" object-types="table, view, procedure, function, column, argument" />
+        <schema name="dbslide" object-types="procedure, function" />
       </connection>
     </loaded-nodes>
   </component>
